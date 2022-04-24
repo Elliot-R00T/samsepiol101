@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samsepiol101
+- 👋 Hi, I’m @Elliot-R00T
 - 👀 I’m interested in ... networking/coding
 - 🌱 I’m currently learning ...cybersecurity
 - 💞️ I’m looking to collaborate on ...
